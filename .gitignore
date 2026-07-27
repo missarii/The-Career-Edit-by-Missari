@@ -4,3 +4,4 @@ database.sqlite
 uploads/*
 !uploads/.gitkeep
 .DS_Store
+pr-creation-log.md
